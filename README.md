@@ -23,3 +23,5 @@ git version 2.11.0.windows.1
 安装git后
 打开到要检出到的目录G:\AndroidStudioProjects20170410\demo，右键选择Git Bash Here菜单项，在弹出的git命令行输入 git clone https://github.com/***/*.git
 当Resolving deltas: 100% (1489/1489), done.即为检出完成，再用AS工具打开Android项目。
+
+
