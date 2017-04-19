@@ -25,3 +25,4 @@ git version 2.11.0.windows.1
 当Resolving deltas: 100% (1489/1489), done.即为检出完成，再用AS工具打开Android项目。
 
 
+https://www.genymotion.com/download-trial/
