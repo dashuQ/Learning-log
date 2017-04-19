@@ -34,3 +34,4 @@ https://www.genymotion.com/
 https://www.genymotion.com/download-trial/
 安装文件With virtualbox – 152MB下载链接：
 https://dl.genymotion.com/releases/genymotion-2.9.0/genymotion-2.9.0-vbox.exe
+注意安装完首次打开Genymotion时会弹出菜单，第一项是输入许可证，第2项是购买，第3应该才是我们要选的，这样就能使用了。
