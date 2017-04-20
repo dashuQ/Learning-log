@@ -47,9 +47,8 @@ https://dl.genymotion.com/releases/genymotion-2.9.0/genymotion-2.9.0-vbox.exe
 
 
 HelloJNI
-
 JNI示例 项目文档中有此项目开发详细教程.doc
-Android项目：https://github.com/dashuQ/HelloJNI
+AS项目：https://github.com/dashuQ/HelloJNI
 
 
 
@@ -74,3 +73,11 @@ Ctrl+Alt+S -> Plugins -> Browse repositories -> 搜索butterknife关键字 -> �
 AS上传项目到github
 VCS -> Import into Version Control -> Share Project on GitHub
 Description中不要有中文，否则提交一直失败
+
+
+
+
+
+PersonalizedSlidingIndicator(个性化滑动指示器)
+自定义ListView实现个性化的滑动指示器效果
+AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
