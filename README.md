@@ -71,7 +71,7 @@ Ctrl+Alt+S -> Plugins -> Browse repositories -> 搜索butterknife关键字 -> �
 ##AS上传项目到github
 VCS -> Import into Version Control -> Share Project on GitHub
 Description中不要有中文，否则提交一直失败
-![image](https://github.com/dashuQ/PersonalizedSlidingIndicator/blob/master/项目文档/images/f11ecbd1d509aacdf9f49ee1c50d4fd.png)
+![github](https://github.com/dashuQ/PersonalizedSlidingIndicator/blob/master/项目文档/images/f11ecbd1d509aacdf9f49ee1c50d4fd.png"Share Project on GitHub")
 
 
 
