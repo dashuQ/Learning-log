@@ -50,3 +50,19 @@ HelloJNI
 
 JNI示例 项目文档中有此项目开发详细教程.doc
 Android项目：https://github.com/dashuQ/HelloJNI
+
+
+
+
+
+butterknife使用
+1.项目中引入butterknife库
+参考https://github.com/JakeWharton/butterknife文档app build.gradle 配置如下：
+    compile 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+2.AS安装Android ButterKnife Zelezny插件
+Ctrl+Alt+S -> Plugins -> Browse repositories -> 搜索butterknife关键字 -> 安装Android ButterKnife Zelezny ->重启AS插件才能生效
+3.butterknife API 的使用
+重启AS后如果不能使用butterknife的API就同步下再试
+设置布局方法setContentView后调用初始ButterKnife.bind(this);
+光标放在R.layout.activity_main上 -> Alt+Insert -> Ctrl+Shift+B 弹出的菜单勾选要初始的控件ID和OnClick选项,更多API使用详情参考开源库文档。
