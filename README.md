@@ -1,11 +1,19 @@
-Learning-log(学习日志)<br>
-=====================
-日常学习笔记<br>
-----------
-
-[TOC]
-
-<br>
+Learning log（学习日志）
+======================
+用gist写的学习日志，用gist写日志的好处是私有的，支持各种编程语言，当然也包括markdown
+---------------------------------------------------------------------------
+**********************************************
+### Author:dashuQ
+### E-mail:121965765@qq.com
+**********************************************
+#目录
+* [git](#git)
+* [genymotion](#genymotion)
+* [HelloJNI](#HelloJNI)
+* [butterknife](#butterknife)
+* [AS上传项目到github](#AS上传项目到github)
+* [PersonalizedSlidingIndicator(个性化滑动指示器)](#PersonalizedSlidingIndicator(个性化滑动指示器))
+* [README.md进阶](#README.md进阶)
 
 #git
 
@@ -90,7 +98,9 @@ AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
 
 
 
-#项目的README.md由Markdown语言编写
+#README.md进阶
+项目的README.md由GFM([Github Flavored Markdown](http://blog.csdn.net/guodongxiaren/article/details/23690801"GitHub上README写法暨GFM语法解读"))语言编写
+
 GitHub上README.md教程
 http://blog.csdn.net/guodongxiaren/article/details/23690801
 
