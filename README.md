@@ -1,6 +1,10 @@
 # Learning-log
 学习日志
 
+
+
+
+
 git使用
 
 安装
@@ -26,6 +30,8 @@ git version 2.11.0.windows.1
 
 
 
+
+
 genymotion模拟器
 官网
 https://www.genymotion.com/
@@ -35,3 +41,12 @@ https://www.genymotion.com/download-trial/
 安装文件With virtualbox – 152MB下载链接：
 https://dl.genymotion.com/releases/genymotion-2.9.0/genymotion-2.9.0-vbox.exe
 注意安装完首次打开Genymotion时会弹出菜单，第一项是输入许可证，第2项是购买，第3应该才是我们要选的，这样就能使用了。
+
+
+
+
+
+HelloJNI
+
+JNI示例 项目文档中有此项目开发详细教程.doc
+Android项目：https://github.com/dashuQ/HelloJNI
