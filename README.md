@@ -1,8 +1,13 @@
-# Learning-log(学习日志)
+Learning-log(学习日志)<br>
+=====================
+日常学习笔记<br>
+----------
+
 [TOC]
 
--------------------
-##git
+<br>
+
+#git
 
 git下载安装：
 
@@ -28,7 +33,7 @@ git version 2.11.0.windows.1
 
 
 
-##genymotion
+#genymotion
 genymotion模拟器
 官网
 https://www.genymotion.com/
@@ -43,7 +48,7 @@ https://dl.genymotion.com/releases/genymotion-2.9.0/genymotion-2.9.0-vbox.exe
 
 
 
-##HelloJNI
+#HelloJNI
 JNI示例 项目文档中有此项目开发详细教程.doc
 AS项目：https://github.com/dashuQ/HelloJNI
 
@@ -51,7 +56,7 @@ AS项目：https://github.com/dashuQ/HelloJNI
 
 
 
-##butterknife
+#butterknife
 butterknife使用
 1.项目中引入butterknife库
 参考https://github.com/JakeWharton/butterknife文档app build.gradle 配置如下：
@@ -68,7 +73,7 @@ Ctrl+Alt+S -> Plugins -> Browse repositories -> 搜索butterknife关键字 -> �
 
 
 
-##AS上传项目到github
+#AS上传项目到github
 VCS -> Import into Version Control -> Share Project on GitHub
 Description中不要有中文，否则提交一直失败
 ![github](https://github.com/dashuQ/PersonalizedSlidingIndicator/blob/master/项目文档/images/f11ecbd1d509aacdf9f49ee1c50d4fd.png"Share Project on GitHub")
@@ -77,7 +82,7 @@ Description中不要有中文，否则提交一直失败
 
 
 
-##PersonalizedSlidingIndicator(个性化滑动指示器)
+#PersonalizedSlidingIndicator(个性化滑动指示器)
 自定义ListView实现个性化的滑动指示器效果
 AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
 
@@ -85,7 +90,7 @@ AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
 
 
 
-##README.md
+#README.md
 个人开发的在线的Markdown编辑器
 http://mahua.jser.me/
 README.md在线的编辑器
