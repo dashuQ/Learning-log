@@ -66,3 +66,11 @@ Ctrl+Alt+S -> Plugins -> Browse repositories -> 搜索butterknife关键字 -> �
 重启AS后如果不能使用butterknife的API就同步下再试
 设置布局方法setContentView后调用初始ButterKnife.bind(this);
 光标放在R.layout.activity_main上 -> Alt+Insert -> Ctrl+Shift+B 弹出的菜单勾选要初始的控件ID和OnClick选项,更多API使用详情参考开源库文档。
+
+
+
+
+
+AS上传项目到github
+VCS -> Import into Version Control -> Share Project on GitHub
+Description中不要有中文，否则提交一直失败
