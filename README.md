@@ -90,10 +90,22 @@ AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
 
 
 
-#README.md
+#项目的README.md由Markdown语言编写
+Markdown 语法说明 (简体中文版)
+http://www.appinn.com/markdown/index.html
+
+好用的Markdown编辑器一览 readme.md 编辑查看
+http://www.cnblogs.com/webenh/p/5794165.html
+
+10个免费的在线Markdown编辑器
+https://www.evget.com/article/2014/11/28/21875.html
+
 个人开发的在线的Markdown编辑器
 http://mahua.jser.me/
+
 README.md在线的编辑器
-https://stackedit.io/editor#synchronization（我比较喜欢用这个，因为是中文的）
-已经发布的产品，可以免费在线编辑。除此之外，还可以将内容同步到印象笔记，不过只能试用10天，之后需要79/年，还是非常不错的。
+https://stackedit.io/editor#synchronization
+
+已经发布的产品，可以免费在线编辑。除此之外，还可以将内容同步到印象笔记，不过只能试用10天，之后需要79/年，还是非常不错的。（我比较喜欢用这个，因为是中文的）
 http://maxiang.info/
+
