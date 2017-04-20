@@ -82,3 +82,15 @@ Description中不要有中文，否则提交一直失败
 PersonalizedSlidingIndicator(个性化滑动指示器)
 自定义ListView实现个性化的滑动指示器效果
 AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
+
+
+
+
+
+README.md
+个人开发的在线的Markdown编辑器
+http://mahua.jser.me/
+README.md在线的编辑器
+https://stackedit.io/editor#synchronization
+已经发布的产品，可以免费在线编辑。除此之外，还可以将内容同步到印象笔记，不过只能试用10天，之后需要79/年，还是非常不错的。
+http://maxiang.info/
