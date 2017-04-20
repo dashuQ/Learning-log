@@ -91,6 +91,9 @@ AS项目：https://github.com/dashuQ/PersonalizedSlidingIndicator
 
 
 #项目的README.md由Markdown语言编写
+GitHub上README.md教程
+http://blog.csdn.net/kaitiren/article/details/38513715
+
 Markdown 语法说明 (简体中文版)
 http://www.appinn.com/markdown/index.html
 
